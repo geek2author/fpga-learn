@@ -1,8 +1,10 @@
 # fpga-learn
 
+**在线玩：https://geek2author.github.io/fpga-learn/**（手机浏览器打开后可「添加到主屏幕」当 App 用；进度存本地 IndexedDB，换设备用 ⚙️ 导出/导入 JSON 迁移）
+
 Duolingo 式 FPGA 碎片化学习应用。当前为 **M3（MVP 完整）**：课程框架 + 进度持久化 + 第一章内容 + 成就徽章 + 错题本（间隔复习）+ 备份导入导出。
 
-产品需求见 [PRD.md](./PRD.md)。
+产品需求见 [PRD.md](./PRD.md)。推送到 main 分支会自动构建并部署到 GitHub Pages。
 
 ## 开发
 
